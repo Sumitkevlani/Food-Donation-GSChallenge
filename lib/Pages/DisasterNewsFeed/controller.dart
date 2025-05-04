@@ -59,6 +59,14 @@ class PCC extends GetxController {
     'https://assets.mixkit.co/videos/preview/mixkit-girl-in-neon-sign-1232-large.mp4',
     'https://assets.mixkit.co/videos/preview/mixkit-winter-fashion-cold-looking-woman-concept-video-39874-large.mp4',
     'https://assets.mixkit.co/videos/preview/mixkit-womans-feet-splashing-in-the-pool-1261-large.mp4',
-    'https://assets.mixkit.co/videos/preview/mixkit-a-girl-blowing-a-bubble-gum-at-an-amusement-park-1226-large.mp4'
+    'https://assets.mixkit.co/videos/preview/mixkit-a-girl-blowing-a-bubble-gum-at-an-amusement-park-1226-large.mp4',
+    'https://drive.google.com/file/d/1kB2dIpUBMAXX9vElAlArIsyrkE639G8y/view?usp=sharing',
+    'https://drive.google.com/file/d/1DqjmfMFczx3LwlChoyhMKAUc3gctuHvk/view?usp=sharing',
+    'https://drive.google.com/file/d/1SI4j-h10phmst4ykdYN2_O4R7wqQ-WOK/view?usp=sharing',
+    'https://www.youtube.com/shorts/Q2pOA4bU1aA',
+    'https://www.youtube.com/shorts/eD0seqMEQSA',
+    'https://www.youtube.com/shorts/EFYJ1FnDERM',
+    'https://vimeo.com/1081261008?share=copy#t=0',
+    'https://vimeo.com/1081261358?ts=0&share=copy'
   ];
 }
